@@ -1,5 +1,6 @@
 # PI-Pico-Rocket-Flight-Computer
 Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Battery with on board BMS support and tons of features.
+!
 ## Features:
 - RO2040 Core Microcontroller
 - 3.7V LiPo Powered
@@ -20,7 +21,6 @@ Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Batter
 
 
 ## Technical Info:
-- Size:90mm x 90mm
 - Signal Layers:2
 - None Signal Layers:10
 - Components:22
@@ -33,3 +33,4 @@ Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Batter
 - Nets:41/41
 - Length of Tracks:1777.21mm
 - Copper Areas:2
+

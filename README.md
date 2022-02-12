@@ -16,7 +16,7 @@ Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Batter
 
 ## Dimensions:
 - 90mm x 90mm
-2mm 4x screw mounts
+- 2mm 4x screw mounts
 
 
 ## Technical Info:

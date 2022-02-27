@@ -116,3 +116,17 @@ https://www.optimusdigital.ro/en/memories/1516-microsd-card-slot-module.html
 - Length of Tracks:1777.21mm
 - Copper Areas:2
 
+## Important Instructions:
+- Use a QC qualified 3.7-4.2V  LiPo battery
+- Battery Capacity is 1Ah-5Ah
+- Charging current for LiPo is 500mA
+
+![image](https://user-images.githubusercontent.com/67455292/155122429-88162453-4a50-407b-a711-7dc221720413.png)
+
+
+## Open Source design:
+<p align="left">
+  <img width="100" src="https://th.bing.com/th/id/R.4e643d6b576a9164460033bd015eb65e?rik=hoK1V%2fMvjhXwZA&pid=ImgRaw&r=0&sres=1&sresct=1" alt="Material Bread logo">
+</p>
+All the CAD and manufacturing files are open source and available under GNU3.0
+Touting an open source hardware design which can be used and modified without any license or permission.

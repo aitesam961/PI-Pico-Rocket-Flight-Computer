@@ -1,4 +1,4 @@
-# PI-Pico-Rocket-Flight-Computer
+# Raspberry PI-Pico-Rocket-Flight-Computer
 Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Battery with on board BMS support and tons of features.
 
 <p align="center">

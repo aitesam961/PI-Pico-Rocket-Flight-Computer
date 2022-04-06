@@ -17,6 +17,7 @@ Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Batter
 
 
 ## Key Features:
+
 - RO2040 Core Microcontroller
 - 3.7V LiPo Powered
 - On Board battery charging and management system

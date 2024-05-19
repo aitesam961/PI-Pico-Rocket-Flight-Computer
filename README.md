@@ -2,15 +2,15 @@
 Rasbperry Pi PI Pico powered Rocket Flight Computer. Powered by 3.7V LiPo Battery with on board BMS support and tons of features.
 
 <p align="center">
-  <img width="400" src="Screenshot 2022-02-26 103118.png" alt="Material Bread logo">
-  <img width="400" src="Screenshot 2022-02-26 103131.png" alt="Material Bread logo">
-  <img width="400" src="Screenshot 2022-02-26 103152.png" alt="Material Bread logo">
+  <img width="400" src="images/Screenshot 2022-02-26 103118.png" alt="Material Bread logo">
+  <img width="400" src="images/Screenshot 2022-02-26 103131.png" alt="Material Bread logo">
+  <img width="400" src="images/Screenshot 2022-02-26 103152.png" alt="Material Bread logo">
 </p>
 
 # Form Factor
 <p align="center">
-  <img width="400" src="Screenshot 2022-02-26 103259.png" alt="Material Bread logo">
-  <img width="400" src="Screenshot 2022-02-26 103315.png" alt="Material Bread logo">
+  <img width="400" src="images/Screenshot 2022-02-26 103259.png" alt="Material Bread logo">
+  <img width="400" src="images/Screenshot 2022-02-26 103315.png" alt="Material Bread logo">
 </p>
 
 

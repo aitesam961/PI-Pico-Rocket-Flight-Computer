@@ -130,3 +130,32 @@ https://www.optimusdigital.ro/en/memories/1516-microsd-card-slot-module.html
 </p>
 All the CAD and manufacturing files are open source and available under GNU3.0
 Touting an open source hardware design which can be used and modified without any license or permission.
+
+## File Tree
+
+```
+.
+├── EasyEDA_Source_files
+│   ├── PCB_Pico Breakout_2021-05-24.json
+│   └── Pico Breakout_2021-05-24.json
+├── images
+│   ├── Screenshot 2022-02-26 103039.png
+│   ├── Screenshot 2022-02-26 103118.png
+│   ├── Screenshot 2022-02-26 103131.png
+│   ├── Screenshot 2022-02-26 103152.png
+│   ├── Screenshot 2022-02-26 103259.png
+│   ├── Screenshot 2022-02-26 103315.png
+│   ├── Screenshot 2022-02-26 103335.png
+│   └── Screenshot 2022-02-26 103406.png
+├── manufacturing_files
+│   ├── BOM_Pico Breakout_2021-05-24.csv
+│   ├── Gerber_PCB_Pico Breakout.zip
+│   └── PickAndPlace_PCB_Pico Breakout_2021-05-24.csv
+├── MCAD Files
+│   ├── OBJ_PCB_Pico Breakout_2021-05-24.zip
+│   └── PCB_Pico Breakout_2021-05-24.dxf
+└── README.md
+
+5 directories, 16 files
+
+```

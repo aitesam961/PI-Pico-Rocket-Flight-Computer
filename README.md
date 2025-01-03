@@ -136,26 +136,33 @@ Touting an open source hardware design which can be used and modified without an
 ```
 .
 ├── EasyEDA_Source_files
-│   ├── PCB_Pico Breakout_2021-05-24.json
-│   └── Pico Breakout_2021-05-24.json
+│   ├── PCB_Pico Breakout_2021-05-24.json
+│   └── Pico Breakout_2021-05-24.json
 ├── images
-│   ├── Screenshot 2022-02-26 103039.png
-│   ├── Screenshot 2022-02-26 103118.png
-│   ├── Screenshot 2022-02-26 103131.png
-│   ├── Screenshot 2022-02-26 103152.png
-│   ├── Screenshot 2022-02-26 103259.png
-│   ├── Screenshot 2022-02-26 103315.png
-│   ├── Screenshot 2022-02-26 103335.png
-│   └── Screenshot 2022-02-26 103406.png
+│   ├── Screenshot 2022-02-26 103039.png
+│   ├── Screenshot 2022-02-26 103118.png
+│   ├── Screenshot 2022-02-26 103131.png
+│   ├── Screenshot 2022-02-26 103152.png
+│   ├── Screenshot 2022-02-26 103259.png
+│   ├── Screenshot 2022-02-26 103315.png
+│   ├── Screenshot 2022-02-26 103335.png
+│   └── Screenshot 2022-02-26 103406.png
+├── LICENSE.txt
 ├── manufacturing_files
-│   ├── BOM_Pico Breakout_2021-05-24.csv
-│   ├── Gerber_PCB_Pico Breakout.zip
-│   └── PickAndPlace_PCB_Pico Breakout_2021-05-24.csv
+│   ├── BOM_Pico Breakout_2021-05-24.csv
+│   ├── Gerber_PCB_Pico Breakout.zip
+│   └── PickAndPlace_PCB_Pico Breakout_2021-05-24.csv
 ├── MCAD Files
-│   ├── OBJ_PCB_Pico Breakout_2021-05-24.zip
-│   └── PCB_Pico Breakout_2021-05-24.dxf
+│   ├── OBJ_PCB_Pico Breakout_2021-05-24.zip
+│   └── PCB_Pico Breakout_2021-05-24.dxf
 └── README.md
 
-5 directories, 16 files
+4 directories, 17 files
 
 ```
+
+
+## License
+
+This Project and information is published under General Public License V3.0 See `LICENSE.txt` for more information.
+> https://www.gnu.org/licenses/quick-guide-gplv3.html
